@@ -1,5 +1,6 @@
 public class Main {
     public static void main(String[] args) {
+        //editado por IBETH HILARIO
 
         for(int i=100; i<=130; i=i+2){
             //System.out.println("Hola: " + i);
